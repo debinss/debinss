@@ -26,9 +26,7 @@ I'm an **Industrial Engineer** and currently a **Research Intern** at the Medica
 - 📊 **Data Analytics**
 - 📉 **Statistical Modeling**
 - 🤖 **Deep Learning**
-- 📊 **Data Visualization**
-- 🗄️ **MySQL**
-- 📋 **Advanced Excel**
+
 
 ---
 
