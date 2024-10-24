@@ -24,9 +24,6 @@ I'm an **Industrial Engineer** and currently a **Research Intern** at the [Medic
 - 🐍 **Python Programming**
 - 📈 **Machine Learning** | 🤖 **Deep Learning**
 - 📊 **Data Analytics** | **Statistical Modeling**
-- 📉 **Statistical Modeling**
-- 🤖 **Deep Learning**
-
 
 ---
 
