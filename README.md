@@ -21,27 +21,16 @@ I'm an **Industrial Engineer** and currently a **Research Intern** at the [Medic
 - 📁 **GitHub**: [GitHub Profile](#)
 
 ## 🛠️ Skills
-
-### Python Programming
-![Python Programming](https://img.shields.io/badge/Expert-100%25-brightgreen?style=flat)
-
-### Machine Learning
-![Machine Learning](https://img.shields.io/badge/Advanced-85%25-blue?style=flat)
-
-### Data Analytics
-![Data Analytics](https://img.shields.io/badge/Proficient-75%25-yellowgreen?style=flat)
-
-### Statistical Modeling
-![Statistical Modeling](https://img.shields.io/badge/Intermediate-65%25-orange?style=flat)
-
-### Deep Learning
-![Deep Learning](https://img.shields.io/badge/Advanced-80%25-blue?style=flat)
+- 🐍 **Python Programming**
+- 📈 **Machine Learning**
+- 📊 **Data Analytics**
+- 📉 **Statistical Modeling**
+- 🤖 **Deep Learning**
+- 📊 **Data Visualization**
+- 🗄️ **MySQL**
+- 📋 **Advanced Excel**
 
 ---
 
 Feel free to connect with me for collaborations, discussions, or just to say hi! 😊
 
-
----
-
-Feel free to connect with me for collaborations, discussions, or just to say hi! 😊
