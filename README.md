@@ -22,13 +22,11 @@ I'm an **Industrial Engineer** and currently a **Research Intern** at the [Medic
 
 ## 🛠️ Skills
 - 🐍 **Python Programming**
-- 📈 **Machine Learning**
-- 📊 **Data Analytics**
+- 📈 **Machine Learning** | 🤖 **Deep Learning**
+- 📊 **Data Analytics** | **Statistical Modeling**
 - 📉 **Statistical Modeling**
 - 🤖 **Deep Learning**
-- 📊 **Data Visualization**
-- 🗄️ **MySQL**
-- 📋 **Advanced Excel**
+
 
 ---
 
